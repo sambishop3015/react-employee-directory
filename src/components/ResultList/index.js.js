@@ -9,9 +9,9 @@ const ResultList = ({ employees }) => {
   return (
     <div className="table-responsive">
       <br />
-          <h6 scope="col-12" >
-            Sort by First, Last, Gender, City, or State by clicking on the headings
-          </h6>
+        <h6>
+          Sort by First, Last, Gender, City, or State by clicking on the headings
+        </h6>
       <table className="table table-striped">
         <thead className="table-header">
           <tr>
